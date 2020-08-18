@@ -43,3 +43,6 @@ body{
 .search-input{
     background-color: #fff;
 }
+.l-position{
+    flex-direction: column;
+}
